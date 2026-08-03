@@ -51,7 +51,7 @@ I'm an Informatics Engineering student at Politeknik Negeri Malang who enjoys bu
 ## Connect With Me
 
 🌐 Portfolio: https://adhamb.framer.website  
-💼 LinkedIn: www.linkedin.com/in/adhambaskara  
+💼 LinkedIn: www.linkedin.com/in/adham-baskara  
 📧 Email: adhambaskara2@gmail.com  
 
 ---
